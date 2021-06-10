@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410262228903",
+    "project_id": "djapp-44f78",
+    "storage_bucket": "djapp-44f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410262228903:android:99e2393c930237950b3082",
+        "android_client_info": {
+          "package_name": "com.flutterflow.djapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410262228903-176qs43bdvjuce5a1h7c6k35a25m1r40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7BGbHvepm7xKpJn2OXnEOq8DQFCgz4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410262228903-176qs43bdvjuce5a1h7c6k35a25m1r40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
